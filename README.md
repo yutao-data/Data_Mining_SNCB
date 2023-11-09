@@ -1,6 +1,7 @@
 ## Background
 
-This repository contains the work of our team in developing an anomaly detection system for the National Railway Company of Belgium (SNCB). Our task is to analyze real-life time series data from diesel trains to detect and distinguish anomalies within their cooling systems. Anomalies could indicate various issues such as sensor failures, problems within a single cooling system, or more critical engine-wide problems that could lead to service interruptions or train incidents.
+This repository contains the work of our team in developing an anomaly detection system for the National Railway Company of Belgium (SNCB) on Belgian Railways Class 41. Our task is to analyze real-life time series data from diesel trains to detect and distinguish anomalies within their cooling systems. Anomalies could indicate various issues such as sensor failures, problems within a single cooling system, or more critical engine-wide problems that could lead to service interruptions or train incidents.
+More information about AR41(Belgian Railways Class 41) is available at:https://fr.wikipedia.org/wiki/S%C3%A9rie_41_SNCB
 
 ## Project Goals
 
